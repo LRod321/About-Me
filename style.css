@@ -48,7 +48,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     box-sizing: border-box;
-    min-height: 200vh;
+    min-height: 240vh;
     flex-direction: column;
     justify-content: flex-start;
     
